@@ -1,0 +1,11 @@
+**Database Name: ecommerceweb**
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+**Customers Login**
+
+Email: allaboutalifxz@gmail.com
+Password: Alifuddin12345
